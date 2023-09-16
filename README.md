@@ -1,5 +1,4 @@
-# entrega-sql
-[Keep Coding] - Entrega modulo SQL - Gonzalo Gregorio
+# [Keep Coding] - Entrega modulo SQL - Gonzalo Gregorio
 
 ## Práctica de Modelado y SQL
 Introducción
